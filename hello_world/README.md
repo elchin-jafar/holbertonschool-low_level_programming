@@ -3,3 +3,4 @@
 2 - generate assembly code, output file should end with .s
 3 - compile C file and create an executable named cisfun
 4 - write C program that prints the given strings but printf dont allowed
+5 - write C program that prints the given strings but puts dont allowed
