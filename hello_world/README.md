@@ -5,3 +5,4 @@
 4 - write C program that prints the given strings but printf dont allowed
 5 - write C program that prints the given strings but puts dont allowed
 6 - print size of vars
+100 - generate assembly code with Intel Syntax
