@@ -6,3 +6,4 @@
 5 - write C program that prints the given strings but puts dont allowed
 6 - print size of vars
 100 - generate assembly code with Intel Syntax
+101 - write quote without using printf or puts
