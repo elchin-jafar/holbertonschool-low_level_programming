@@ -14,8 +14,10 @@ int main(void)
 	{
 		putchar(begin);
 		if (begin < end)
+		{
 			putchar(',');
-		putchar(' ');
+			putchar(' ');
+		}
 		begin++;
 	}
 	putchar('\n');
