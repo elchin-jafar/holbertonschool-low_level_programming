@@ -4,4 +4,5 @@ C - VARIABLES, IF, ELSE, WHILE <br />
 2 - print lowercase alphabet with putchar <br />
 3 - print lowercase then uppercase alphabet <br />
 4 - print lower case alphabet but not q and e <br />
-5 - print numbers from 0 to 9 using printf
+5 - print numbers from 0 to 9 using printf <br />
+6 - print numbers from 0 to 9 using putchar
