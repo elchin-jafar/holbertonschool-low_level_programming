@@ -7,4 +7,5 @@ C - VARIABLES, IF, ELSE, WHILE <br />
 5 - print numbers from 0 to 9 using printf <br />
 6 - print numbers from 0 to 9 using putchar <br />
 7 - print alphabet reverse with putchar <br />
-8 - print hexadecimal numbers with putchar
+8 - print hexadecimal numbers with putchar <br />
+9 - print numbers with comma like 0, 1, to 9
