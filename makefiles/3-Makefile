@@ -13,10 +13,6 @@ clean: $(NAME)
 oclean: $(OBJ)
 	$(RM) -f $(OBJ)
 
-fclean: $(NAME) $(OBJ)
-	$(RM) -f *~ $(NAME)
-	$(RM) -f $(OBJ)
+fclean: clean oclean
 
-re: $(OBJ)
-	$(RM) -f $(OBJ)
-	$(CC) $(OBJ) -o $(NAME)
+re: fclean all
