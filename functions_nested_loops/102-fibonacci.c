@@ -7,22 +7,15 @@
 
 int main(void)
 {
-	int first = 0, second = 1, prev_first;
+	long int first = 0, second = 1, prev_first;
+	int i;
 
-	while (first + second < 50)
+	for (i = 0; i < 50; i++)
 	{
-		printf("%d, ", first + second);
-		prev_first = first;
-		first = second;
-		second = prev_first + second;
-	}
-	printf("\n");
-
-	first = 1, second = 1;
-
-	while (first + second < 50)
-	{
-		printf("%d, ", first + second);
+		if (i != 49)
+			printf("%li, ", first + second);
+		else
+			printf("%li\n", first + second);
 		prev_first = first;
 		first = second;
 		second = prev_first + second;
