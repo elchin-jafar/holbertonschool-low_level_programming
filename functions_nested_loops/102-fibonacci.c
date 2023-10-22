@@ -15,7 +15,7 @@ int main(void)
 		if (i != 49)
 			printf("%li, ", first + second);
 		else
-			printf("%li\n", first + second);
+			printf("%li", first + second);
 		prev_first = first;
 		first = second;
 		second = prev_first + second;
