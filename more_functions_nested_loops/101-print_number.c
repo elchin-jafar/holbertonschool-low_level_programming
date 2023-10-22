@@ -12,7 +12,7 @@ int digit_finder(int num)
 	
 	if (num < 0)
 		num = -num;
-	for (i = 10; i < num; i *= 10)
+	for (i = 10; i <= num; i *= 10)
 	{
 		if (num / 10 != 0)
 			digit += 1;
