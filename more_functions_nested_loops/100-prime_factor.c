@@ -9,7 +9,7 @@ int main(void)
 {
 	long n = 612852475143, div;
 
-	while (div <  / 2)
+	while (div < n / 2)
 	{
 		if (n % 2 == 0)
 		{
