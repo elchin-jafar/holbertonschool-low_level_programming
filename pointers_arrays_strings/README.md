@@ -8,3 +8,4 @@ POINTERS, ARRAYS, STRINGS <br />
 6 - prints every other char of given string <br />
 7 - prints second half of given string <br />
 8 - prints n elements of given array <br />
+9 - copy from src to dest <br />
