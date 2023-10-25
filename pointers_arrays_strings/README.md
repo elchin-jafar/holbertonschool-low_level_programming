@@ -9,3 +9,4 @@ POINTERS, ARRAYS, STRINGS <br />
 7 - prints second half of given string <br />
 8 - prints n elements of given array <br />
 9 - copy from src to dest <br />
+10 - convert string to int <br />
