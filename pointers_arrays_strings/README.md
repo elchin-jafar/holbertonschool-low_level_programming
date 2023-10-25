@@ -6,3 +6,4 @@ POINTERS, ARRAYS, STRINGS <br />
 4 - prints reverse of given string <br />
 5 - reverse given string <br />
 6 - prints every other char of given string <br />
+7 - prints second half of given string <br />
