@@ -22,6 +22,8 @@ int _atoi(char *s)
 		}
 		else if (is_digits_started)
 			break;
+
+		s++;
 	}
 
 	return (res * sign);
