@@ -7,3 +7,4 @@ POINTERS, ARRAYS, STRINGS <br />
 5 - reverse given string <br />
 6 - prints every other char of given string <br />
 7 - prints second half of given string <br />
+8 - prints n elements of given array <br />
