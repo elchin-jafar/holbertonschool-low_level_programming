@@ -4,3 +4,4 @@ POINTERS TO POINTERS, 2D ARRAYS
 2 - locates character in a string <br />
 3 - function that gets the length of a prefix substring <br />
 4 - search a string for any of a set of bytes <br />
+5 - locates a substring and return pointer to located substr <br />
