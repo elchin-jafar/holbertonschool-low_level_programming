@@ -6,3 +6,4 @@ POINTERS TO POINTERS, 2D ARRAYS
 4 - search a string for any of a set of bytes <br />
 5 - locates a substring and return pointer to located substr <br />
 6 - print every char of 2D array <br />
+7 - print sums of 2 diagonals in 2D arr <br />
