@@ -4,3 +4,4 @@ RECURSION <br />
 2 - function returns length of string <br />
 3 - function calcs factorial of given num <br />
 4 - function calcs power of x base y <br />
+5 - function calcs square root of given num <br />
