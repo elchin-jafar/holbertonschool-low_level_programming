@@ -6,3 +6,5 @@ int factorial(int n);
 int _pow_recursion(int x, int y);
 int sqrt_finder(int n, int root);
 int _sqrt_recursion(int n);
+int prime_helper(int n, int divisor);
+int is_prime_number(int n);
