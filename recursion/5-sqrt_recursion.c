@@ -14,7 +14,8 @@ int sqrt_finder(int n, int root)
 
 	if (root == n / 2)
 		return (-1);
-	
+
+
 	return (sqrt_finder(n, root + 1));
 }
 
