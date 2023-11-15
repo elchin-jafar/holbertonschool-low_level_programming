@@ -23,7 +23,7 @@ void *_calloc(unsigned int nmemb, unsigned int size)
 		return (NULL);
 
 	zero = arr;
-	for (index = 0; index < nmemb; index++)
+	for (index = 0; index < (size * nmemb); index++)
 		zero[index] = '\0';
 
 	return (arr);
