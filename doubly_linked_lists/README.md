@@ -6,3 +6,4 @@ DOUBLY LINKED LISTS <br />
 4 - frees linked list <br />
 5 - locates node in list <br />
 6 - sum all data in list <br />
+7 - add new node to the list in the given place <br />
