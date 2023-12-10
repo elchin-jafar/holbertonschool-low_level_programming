@@ -7,3 +7,4 @@ DOUBLY LINKED LISTS <br />
 5 - locates node in list <br />
 6 - sum all data in list <br />
 7 - add new node to the list in the given place <br />
+8 - delete node from list on given place <br />
